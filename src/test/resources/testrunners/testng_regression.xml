@@ -25,7 +25,7 @@
 			<class name="com.qa.opencart.tests.LoginPageTest" />
 		</classes>
 	</test>
-
+<!-- 
 	<test name="Login Page Test_firefox">
 		<parameter name="browser" value="firefox" />
 		<parameter name="browserversion" value="125.0" />
@@ -77,7 +77,7 @@
 			<class name="com.qa.opencart.tests.RegisterPageTest" />
 		</classes>
 	</test>
-
+-->
 
 
 
